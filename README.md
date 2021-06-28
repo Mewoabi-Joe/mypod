@@ -1,2 +1,2 @@
-# mypod
- Learning WebDev with Head First HTML and CSS: WebSite for Ipods
+# mypod Website
+ Ipod fans really love their ipods. Why not create a site for them
